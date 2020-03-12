@@ -1,5 +1,5 @@
 package lab12;
-
+//Author:Jackie Zablah. Java Bootcamp
 public class UsedCar extends Car {
 	private double mileage;
 	

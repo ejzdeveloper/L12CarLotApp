@@ -1,5 +1,5 @@
 package lab12;
-
+//Author:Jackie Zablah. Java Bootcamp
 public class Car {
 	
 	private String make;

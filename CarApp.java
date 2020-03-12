@@ -1,5 +1,5 @@
 package lab12;
-
+//Author:Jackie Zablah. Java Bootcamp
 import java.util.ArrayList;
 import java.util.Scanner;
 
